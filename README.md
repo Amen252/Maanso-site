@@ -5,8 +5,7 @@
 ---
 
 ## Screenshots
-
-![![Hero](./Frontend/src/screenshots/Hero.png)
+![Hero](./Frontend/src/screenshots/Hero.png)
 ![Poems](./Frontend/src/screenshots/poems.png)
 ![Abwaan Dashboard](./Frontend/src/screenshots/abwaan.png)
 ![Footer](./Frontend/src/screenshots/footer.png)
