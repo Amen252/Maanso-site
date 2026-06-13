@@ -1,5 +1,5 @@
 import { jwtVerify } from 'jose';
-import User from '../modules/users/user.model.js';
+import User from '../Features/users/user.model.js';
 import { JWT_SECRET } from '../utils/getJWTSecret.js';
 
 const auth = async (req, res, next) => {
