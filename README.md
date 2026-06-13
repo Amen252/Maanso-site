@@ -6,14 +6,10 @@
 
 ## Screenshots
 
-![Hero](./src/screenshots/Hero.png)
-
-![Poems](./src/screenshots/poems.png)
-
-![Abwaan Dashboard](./src/screenshots/abwaan.png)
-
-![Footer](./src/screenshots/footer.png)
-
+![![Hero](./Frontend/src/screenshots/Hero.png)
+![Poems](./Frontend/src/screenshots/poems.png)
+![Abwaan Dashboard](./Frontend/src/screenshots/abwaan.png)
+![Footer](./Frontend/src/screenshots/footer.png)
 ---
 
 ## About
